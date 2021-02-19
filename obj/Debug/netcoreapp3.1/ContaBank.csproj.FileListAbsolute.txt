@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.exe
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.deps.json
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.runtimeconfig.json
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.dll
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\bin\Debug\netcoreapp3.1\ContaBank.pdb
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.dll
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.pdb
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\simulationBank\obj\Debug\netcoreapp3.1\ContaBank.genruntimeconfig.cache
